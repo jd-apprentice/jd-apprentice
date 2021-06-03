@@ -23,9 +23,9 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
 <img align="left" alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 <img align="left" alt="Git" width=30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-<img align="left" alt="Js" width="30px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>                                    
+<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>                                  
 <img align="left" alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
+<img align="left" alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png"/>                                              <img align="left" alt="Js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>  
 <img align="left" alt="Windows" width=30px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
 
 [twitter]: https://twitter.com/jd_apprentice
