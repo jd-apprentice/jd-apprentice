@@ -4,8 +4,8 @@
 
 ## I'm a Tech guy, thinker and an aspiring self-taught programmer
 
-- 🎲 I'am currently learning Bootstrap and JavaScript
-- 📌 Next thing to do: Learn react and Firebase
+- 🎲 I'am currently learning Firebase and JavaScript
+- 📌 Next thing to do: Learn node.js 
 - 📚 I normally like to learn new things everyday 
 - 📕 2021 Goals: Trying to get confortable using python, learn new languages, get a job
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
