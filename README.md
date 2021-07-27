@@ -4,6 +4,7 @@
 
 ## I'm a Tech guy, thinker and an aspiring self-taught programmer
 
+- ⚙️ Working on [E-commerce Firebase]
 - 🎲 I'am currently learning Firebase and JavaScript
 - 📌 Next thing to do: Learn node.js 
 - 📚 I normally like to learn new things everyday 
@@ -34,6 +35,7 @@
 <img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
 <img align="left" alt="Ubuntu" width="30px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
 
+[E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
