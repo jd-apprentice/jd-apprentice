@@ -5,8 +5,9 @@
 ## I'm a Tech guy, thinker and an aspiring self-taught programmer
 
 - ⚙️ Working on [E-commerce Firebase]
+- 💻 Taking a Fullstack Java course at [Polotic]
 - 🎲 I'am currently learning Firebase and JavaScript
-- 📌 Next thing to do: Learn node.js 
+- 📌 Next thing to do: Learn node.js and react
 - 📚 I normally like to learn new things everyday 
 - 📕 2021 Goals: Trying to get confortable using python, learn new languages, get a job
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
@@ -17,7 +18,6 @@
 [<img align="left" alt="Jonathandyallo | LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="jd.apprentice | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 [<img align="left" alt="jd.apprentice | Mailto" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
-
 
 <br/>
 
@@ -41,3 +41,4 @@
 [instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:emeraldusk@gmail.com
+[Polotic]: https://polotic.misiones.gob.ar/
