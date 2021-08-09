@@ -33,6 +33,7 @@
 <img align="left" alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" alt="Sass" width="30px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 <img align="left" alt="Windows" width="30px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
+<img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
 <img align="left" alt="Ubuntu" width="30px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
 
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
