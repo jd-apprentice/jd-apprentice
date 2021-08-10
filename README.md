@@ -5,7 +5,6 @@
 ## I'm a Tech guy, thinker and an aspiring self-taught programmer
 
 - ⚙️ Working on [E-commerce Firebase]
-- 💻 Taking a Fullstack Java course at [Polotic]
 - 🎲 I'am currently learning Firebase and JavaScript
 - 📌 Next thing to do: Learn node.js and react
 - 📚 I normally like to learn new things everyday 
@@ -42,4 +41,3 @@
 [instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:emeraldusk@gmail.com
-[Polotic]: https://polotic.misiones.gob.ar/
