@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jd_apprentice?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjd_apprentice&screen_name=jd_apprentice)
 
-## I'm a Tech guy, thinker and an aspiring self-taught programmer
+## I'm a Tech guy, thinker and self-taught programmer
 
 - ⚙️ Working on [E-commerce Firebase]
 - 🎲 I'am currently learning Firebase and JavaScript
