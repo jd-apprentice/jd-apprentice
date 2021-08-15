@@ -4,7 +4,8 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- ⚙️ Working on [E-commerce Firebase]
+- ⚙️ Working on [BuscadorCrypto]
+- ⏸️ This proyect is in pause due to not having time with my co-worker [E-commerce Firebase]
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
@@ -36,6 +37,7 @@
 <img align="left" alt="Ubuntu" width="30px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
 
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
+[BuscadorCrypto]: https://github.com/jd-apprentice/BuscadorCrypto
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
