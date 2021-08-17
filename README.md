@@ -38,11 +38,6 @@
                                                                                                           
 <br/>
 
-### Stats:
-
-<img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&locale=en" alt="jd-apprentice" />
-<img align="center" width="425px" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&" alt="jd-apprentice" />
-
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
 [BuscadorCrypto]: https://github.com/jd-apprentice/BuscadorCrypto
 [twitter]: https://twitter.com/jd_apprentice
