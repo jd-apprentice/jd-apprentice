@@ -4,8 +4,8 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- ⚙️ Working on [BuscadorCrypto]
-- ⏸️ This proyect is in pause due to not having time with my co-worker [E-commerce Firebase]
+- ⚙️ Working on [BuscadorCrypto] with react
+- ⏸️ Also working in [E-commerce Firebase] with js vanilla
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
