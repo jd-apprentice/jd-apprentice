@@ -9,7 +9,7 @@
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
-- 📕 2021 Goals: Trying to get confortable using python, learn new languages, get a job
+- 📕 2021 Goals: Contribute to open source projects, get confortable with react or nodejs, get my first job
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
 
 ### Connect with me:
