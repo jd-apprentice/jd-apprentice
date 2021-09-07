@@ -4,8 +4,8 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- ⚙️ Working on [BuscadorCrypto] with react
-- ⏸️ Also working in [E-commerce Firebase] with js vanilla
+- ⚙️ Taking the Javascrip30 coding challenge on [JS30]
+- ⏸️ Building an E-commerce with firebase and js vanilla at [E-commerce Firebase]
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
@@ -39,7 +39,7 @@
 <br/>
 
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
-[BuscadorCrypto]: https://github.com/jd-apprentice/BuscadorCrypto
+[JS30]: https://javascript30.com/
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
