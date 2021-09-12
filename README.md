@@ -4,7 +4,7 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- ⚙️ Taking the Javascrip30 coding challenge at [JS30]
+- ⚙️ Taking the JavaScript30 coding challenge at [JS30]
 - ⏸️ Building an E-commerce with firebase and js vanilla at [E-commerce Firebase]
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
