@@ -42,11 +42,6 @@
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&theme=tokyonight" />
-
-### Projects:
-
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=BuscadorCrypto&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=RetroMMO-RPC&theme=tokyonight" />
                                                                                                        
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
 [JS30]: https://javascript30.com/
