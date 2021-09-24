@@ -4,7 +4,6 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- ⚙️ Taking the JavaScript30 coding challenge at [JS30]
 - ⏸️ Building an E-commerce with firebase and js vanilla at [E-commerce Firebase]
 - 🎲 I'am currently learning React and nodejs
 - 📌 Next thing to do: Learn express and mongodb
@@ -49,7 +48,6 @@
 </div>
                                                                                                        
 [E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
-[JS30]: https://javascript30.com/
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
