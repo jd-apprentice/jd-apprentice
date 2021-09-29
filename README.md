@@ -5,7 +5,7 @@
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - ⏸️ Building an E-commerce with firebase and js vanilla at [E-commerce Firebase]
-- 🎲 I'am currently learning React and nodejs
+- 🎲 I'am currently learning react, nodejs and solidity
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
 - 📕 2021 Goals: Contribute to open source projects, get confortable with react or nodejs, get my first job
