@@ -4,7 +4,8 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- 🧠 Taking my time to improve my logic and problem solving skills
+- 🚀 Learning web3 in [buildspace]
+- 🔨 Currently working on [project]
 - 🎲 In my free time im learning react and solidity
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
@@ -57,3 +58,5 @@
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:emeraldusk@gmail.com
 [portfolio]: https://portfolio-jd.vercel.app/
+[buildspace]: https://buildspace.so/
+[project]: https://github.com/jd-apprentice/buildspace_web3app
