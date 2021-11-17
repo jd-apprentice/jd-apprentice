@@ -4,8 +4,8 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- 🚀 Learning web3 in [buildspace]
-- 🔨 Currently working on [project]
+- 🚀 Frontend developer at [activitup]
+- 🔨 Learning angular/typescript
 - 🎲 In my free time im learning react and solidity
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
@@ -59,4 +59,4 @@
 [gmail]: mailto:emeraldusk@gmail.com
 [portfolio]: https://portfolio-jd.vercel.app/
 [buildspace]: https://buildspace.so/
-[project]: https://github.com/jd-apprentice/buildspace_web3app
+[activitup]: https://www.linkedin.com/company/activitup/
