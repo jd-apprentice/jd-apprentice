@@ -9,7 +9,7 @@
 - 🎲 In my free time im learning react and solidity
 - 📌 Next thing to do: Learn express and mongodb
 - 📚 I normally like to learn new things everyday 
-- 📕 2021 Goals: Contribute to open source projects, get confortable with react or nodejs, get my first job
+- 📕 2021 Goals: Contribute to open source projects, get confortable with react or nodejs, <s>get my first job</s>
 - 💼 You can see my [portfolio]
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
 
