@@ -1,6 +1,6 @@
 # Hello there, I'm Jonathan aka jd-apprentice 👋
 
-![Git Shorter](https://user-images.githubusercontent.com/68082746/132961812-aa851662-fc7f-4652-a3e2-300a707080f4.gif)
+![Readme](https://user-images.githubusercontent.com/68082746/143385260-e05441c3-3bf8-448e-a5b2-de243fbd882e.gif)
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
