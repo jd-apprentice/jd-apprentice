@@ -4,7 +4,7 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- 🚀 Frontend developer at [activitup]
+- 🚀 Frontend developer at [incubator]
 - 🔨 Learning angular/typescript
 - 🎲 In my free time im learning react and solidity
 - 📌 Next thing to do: Learn express and mongodb
@@ -60,4 +60,4 @@
 [gmail]: mailto:emeraldusk@gmail.com
 [portfolio]: https://portfolio-jd.vercel.app/
 [buildspace]: https://buildspace.so/
-[activitup]: https://www.linkedin.com/company/activitup/
+[incubator]: https://www.linkedin.com/company/incubator-ar/
