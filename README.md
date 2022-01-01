@@ -5,11 +5,10 @@
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - 🚀 Frontend developer at [incubator]
-- 🔨 Learning angular/typescript
+- 🔨 Learning angular/typescript & react/python
 - 🎲 In my free time im learning react and solidity
-- 📌 Next thing to do: Learn express and mongodb
-- 📚 I normally like to learn new things everyday 
-- 📕 2021 Goals: Contribute to open source projects, get confortable with react or nodejs, <s>get my first job</s>
+- 📚 I love learning new things, teach me something <3
+- 📕 2022 Goals: Improve at frontend, learn backend, start a carrer, build healthy habits, build a project in web3
 - 💼 You can see my [portfolio]
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
 
