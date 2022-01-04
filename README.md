@@ -5,9 +5,9 @@
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - 🚀 Frontend developer at [incubator]
-- 🔨 Learning angular/typescript & react/python
+- 📚 Currently studying at [ISPC]
+- 🔨 Working with angular/typescript
 - 🎲 In my free time im learning react and solidity
-- 📚 I love learning new things, teach me something <3
 - 📕 2022 Goals: Improve at frontend, learn backend, start a carrer, build healthy habits, build a project in web3
 - 💼 You can see my [portfolio]
 - 🔎 Random Fact: I like tech, photos, crypto, gaming
@@ -60,3 +60,4 @@
 [portfolio]: https://portfolio-jd.vercel.app/
 [buildspace]: https://buildspace.so/
 [incubator]: https://www.linkedin.com/company/incubator-ar/
+[ISPC]: https://www.ispc.edu.ar/tecnicatura-web/
