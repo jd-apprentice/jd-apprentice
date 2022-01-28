@@ -26,6 +26,7 @@
 <div align="left"> 
   <img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img alt="Docker" width="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
   <img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">
   <img alt="Ganache" width="30px" src="https://i.imgur.com/ov9HZqW.png">
   <img alt="Truffle" width="30px" src="https://i.imgur.com/FwrL4tz.png">
@@ -36,6 +37,7 @@
   <img alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
   <img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
+  <img  alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
