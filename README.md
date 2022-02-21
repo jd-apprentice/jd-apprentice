@@ -1,16 +1,17 @@
 # Hello there, I'm Jonathan aka jd-apprentice 👋
 
-![Readme](https://user-images.githubusercontent.com/68082746/143385260-e05441c3-3bf8-448e-a5b2-de243fbd882e.gif)
+![Readme](https://user-images.githubusercontent.com/68082746/154892003-526a59a9-193a-455b-8843-6eafcd632a59.gif)
+
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - 🚀 Frontend developer at [incubator]
 - 📚 Currently studying at [ISPC]
-- 🔨 Working with angular/typescript
-- 🎲 In my free time im learning react and solidity
-- 📕 2022 Goals: Improve at frontend, learn backend, start a carrer, build healthy habits, build a project in web3
+- 🔨 Working with react/angular + typescript
+- 📚 I'm currently learning nodejs/python, next solidity
+- 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, build healthy habits, build a project in web3
 - 💼 You can see my [portfolio]
-- 🔎 Random Fact: I like tech, photos, crypto, gaming
+- 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
 ### Connect with me:
 
@@ -52,8 +53,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&theme=tokyonight" />
 </div>
-                                                                                                       
-[E-commerce Firebase]: https://github.com/jd-apprentice/E-commerce
+
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
