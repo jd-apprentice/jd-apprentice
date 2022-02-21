@@ -1,7 +1,6 @@
 # Hello there, I'm Jonathan aka jd-apprentice 👋
 
-![Readme](https://user-images.githubusercontent.com/68082746/154892003-526a59a9-193a-455b-8843-6eafcd632a59.gif)
-
+![Readme](https://user-images.githubusercontent.com/68082746/154892919-48e0b33a-672c-4470-85b5-b005cf886382.gif)
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
@@ -42,7 +41,6 @@
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
   <img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-  
 </div>
 
 <br/>
@@ -60,6 +58,5 @@
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:emeraldusk@gmail.com
 [portfolio]: https://portfolio-jd.vercel.app/
-[buildspace]: https://buildspace.so/
 [incubator]: https://www.linkedin.com/company/incubator-ar/
 [ISPC]: https://www.ispc.edu.ar/tecnicatura-web/
