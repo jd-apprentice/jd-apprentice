@@ -7,8 +7,8 @@
 - 🚀 Frontend developer at [incubator]
 - 📚 Currently studying at [ISPC]
 - 🔨 Working with react/angular + typescript
-- 📚 I'm currently learning nodejs/python, next solidity
-- 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, build healthy habits, build a project in web3
+- 📚 I'm currently learning nodejs + express, next solidity or nest
+- 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
 - 💼 You can see my [portfolio]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
