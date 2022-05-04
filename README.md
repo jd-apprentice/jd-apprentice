@@ -12,51 +12,43 @@
 - 💼 You can see my [portfolio]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
-### Connect with me:
-
-[<img align="left" alt="jd_apprentice | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />][twitter]
-[<img align="left" alt="Jonathandyallo | LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="jd.apprentice | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[<img align="left" alt="jd.apprentice | Mailto" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
-
 <br/>
-
 
 ### Languages
 <div align="left">
 
-[<img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">](## "Typescript")
-[<img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">](## "Python")
-[<img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">](## "Solidity")
+<img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">
 
 ### Tools
 
-[<img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](## "Git")
-[<img alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">](## "Postman")
-[<img alt="Jwt" width="30px" src="https://jwt.io/img/pic_logo.svg">](## "JWT")
-[<img alt="Hardhat" width="30px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">](## "Hardhat")
+<img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+<img alt="Jwt" width="30px" src="https://jwt.io/img/pic_logo.svg">
+<img alt="Hardhat" width="30px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
 
 
 ### Deploy
 
-[<img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">](## "Heroku")
-[<img alt="Vercel" width="30px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">](## "Vercel")
+<img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+<img alt="Vercel" width="30px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
 
 
 ### Frontend
 
-[<img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">](## "React")
-[<img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">](## "Angular")
-[<img alt="Mui" width="30px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">](## "Mui")
-[<img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">](## "Canva")
-[<img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">](## "Boostrap")
+<img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+<img alt="Mui" width="30px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+<img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+<img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 
 
 ### Backend
 
-[<img alt="Mongodb" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">](## "Mongodb")
-[<img alt="Express" width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">](## "Express")
-[<img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">](## "Nodejs")
+<img alt="Mongodb" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img alt="Express" width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+<img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
 </div>
 
 <br/>
