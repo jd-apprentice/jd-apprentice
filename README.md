@@ -12,53 +12,38 @@
 - 💼 You can see my [portfolio]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
-<br/>
+<a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jd_apprentice?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
+/></a><a href="https://www.github.com/jd-apprentice" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-### Languages
-<div align="left">
+### Skills
 
-<img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
 
-### Tools
+### Socials
 
-<img alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-<img alt="Jwt" width="30px" src="https://jwt.io/img/pic_logo.svg">
-<img alt="Hardhat" width="30px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
+<p align="left"> <a href="https://www.github.com/jd-apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathandyallo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/jd_apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-### Deploy
+<a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="jd-apprentice's GitHub stats" /></a>
 
-<img alt="Heroku" width="30px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-<img alt="Vercel" width="30px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
+<a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-### Frontend
-
-<img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img  alt="Angular" width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
-<img alt="Mui" width="30px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
-<img  alt="Canva" width="30px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
-<img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-
-
-### Backend
-
-<img alt="Mongodb" width="30px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-<img alt="Express" width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
-<img alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667">
-</div>
-
-<br/>
-
-### Stats:
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&theme=tokyonight" />
-</div>
 
 [twitter]: https://twitter.com/jd_apprentice
 [youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
