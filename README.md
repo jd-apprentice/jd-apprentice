@@ -4,7 +4,7 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- 🚀 Frontend developer at [incubator]
+- 🚀 Fullstack developer at [incubator]
 - 📚 Currently studying at [ISPC]
 - 🔨 Working with react + typescript
 - 📚 I'm currently learning nodejs + express, next solidity or nest
