@@ -5,9 +5,8 @@
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - 🚀 Fullstack developer at [incubator]
-- 📚 Currently studying at [ISPC]
 - 🔨 Working with react + typescript
-- 📚 I'm currently learning nodejs + express, next solidity or nest
+- 📚 I'm currently learning typeorm + relational databases, next solidity or nest
 - 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
 - 💼 You can see my [portfolio]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
