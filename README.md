@@ -1,6 +1,6 @@
 # Hello there, I'm Jonathan aka jd-apprentice 👋
 
-![Readme](https://user-images.githubusercontent.com/68082746/154892919-48e0b33a-672c-4470-85b5-b005cf886382.gif)
+![Readme](./Image.gif)
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
@@ -43,12 +43,17 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Guides and Templates
+
+- [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
+- [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
+- [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
+- [Guide] 📚 Angular routing with modules [Guist](https://gist.github.com/jd-apprentice/c41f7c040200daaee836c5dc9f29683d)
+- [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
 
 [twitter]: https://twitter.com/jd_apprentice
-[youtube]: https://youtube.com/channel/UCAXE_hBc0sBzk15vVq-oH3A
 [instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:emeraldusk@gmail.com
-[portfolio]: https://portfolio-jd.vercel.app/
-[incubator]: https://www.linkedin.com/company/incubator-ar/
-[ISPC]: https://www.ispc.edu.ar/tecnicatura-web/
+[portfolio]: https://jonathandyallo.vercel.app/en
+[incubator]: https://incubator.com.ar/
