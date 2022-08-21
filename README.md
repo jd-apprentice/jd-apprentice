@@ -54,6 +54,7 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 - [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
 - [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
 - [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
+- [Guide] 📚 Dockerize a database and connect to it with DBeaver [Guist](https://gist.github.com/jd-apprentice/5818628a7815975b1e56e00c5e87704a)
 - [Guide] 📚 Angular routing with modules [Guist](https://gist.github.com/jd-apprentice/c41f7c040200daaee836c5dc9f29683d)
 - [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
 - [Guide] 📚 Create booteable USB on linux with Ventoy (ES) [Guist](https://gist.github.com/jd-apprentice/e9436b870247ed303949dbec789861cc)
