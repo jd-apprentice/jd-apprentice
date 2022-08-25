@@ -10,12 +10,14 @@
 - 📚 In my free time i'm currently learning typeorm + relational databases, next solidity or nest
 - 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
 - 💼 You can see my [portfolio]
+- 🗒️ Visit my [blog]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
 <a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jd_apprentice?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
 /></a><a href="https://www.github.com/jd-apprentice" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -45,6 +47,8 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jd-apprentice's GitHub stats" /></a>
 
+<a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 ### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/jd-apprentice/cli-currency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=cli-currency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jd-apprentice/cli-youtube-downloader" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=cli-youtube-downloader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
@@ -66,3 +70,4 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 [gmail]: mailto:emeraldusk@gmail.com
 [portfolio]: https://jonathandyallo.vercel.app/en
 [incubator]: https://incubator.com.ar/
+[blog]: https://jonathan-blog.vercel.app/blog
