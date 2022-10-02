@@ -5,12 +5,11 @@
 ## I'm a Tech guy, thinker and self-taught programmer
 
 - 🚀 Fullstack developer at [incubator]
-- 🖥️ Learning computer science in [ossu]
-- 🔨 Working with react + typescript
-- 📚 In my free time i'm currently learning typeorm + relational databases, next solidity or nest
+- 🖥️ Studying systems engineering in [utn]
+- 🔨 Working with react + typescript + nodejs
+- 📚 In my free time i'm currently learning about computers and linux, next solidity or nest
 - 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
 - 💼 You can see my [portfolio]
-- 🗒️ Visit my [blog]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
 <a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img
@@ -63,11 +62,10 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 - [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
 - [Guide] 📚 Create booteable USB on linux with Ventoy (ES) [Guist](https://gist.github.com/jd-apprentice/e9436b870247ed303949dbec789861cc)
 
-[ossu]: https://github.com/ossu/computer-science
+[utn]: https://www.frlp.utn.edu.ar/carrera-sistemas
 [twitter]: https://twitter.com/jd_apprentice
 [instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
-[gmail]: mailto:emeraldusk@gmail.com
-[portfolio]: https://jonathandyallo.vercel.app/en
+[gmail]: mailto:contacto@jonathan.com.ar
+[portfolio]: https://jonathan.com.ar/es
 [incubator]: https://incubator.com.ar/
-[blog]: https://jonathan-blog.vercel.app/blog
