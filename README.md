@@ -8,7 +8,7 @@
 - 🖥️ Studying systems engineering in [utn]
 - 🔨 Working with react + typescript + nodejs
 - 📚 In my free time i'm currently learning about computers and linux, next solidity or nest
-- 📕 2022 Goals: Improve at frontend, learn backend, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
+- 📕 2022 Goals: ~~Improve at frontend~~, ~~learn backend~~, ~~start a carrer~~, ~~build healthy habits~~, build a project in web3
 - 💼 You can see my [portfolio]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
