@@ -6,9 +6,9 @@
 
 ## I'm a Tech guy, thinker and self-taught programmer
 
-- 🚀 Fullstack developer at [incubator]
+- 🚀 Fullstack developer at [autoinspector]
 - 🖥️ Studying systems engineering in [utn]
-- 🔨 Working with react/next + typescript + express/nestjs + mongodb/postgresql
+- 🔨 Working with nextjs + nestjs
 - 📚 In my free time i'm currently learning linux and bash
 - 📕 2023 Goals: Learn more linux - Start some activity (e.g. archery) - Improve logic/problem solving - Keep improving on what I already do - Get in the habit of reading books - Move alone - Reach SSR seniority
 - 💼 You can see my [portfolio]
@@ -33,13 +33,10 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/jd-apprentice/cli-currency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=cli-currency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jd-apprentice/cli-youtube-downloader" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jd-apprentice&repo=cli-youtube-downloader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Guides and Templates
 
 - [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
+- [Guide + Template] 📚 Build .deb package [Repo](https://github.com/jd-apprentice/debian-package-base)
 - [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
 - [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
 - [Guide] 📚 Running a chinese arduino (ch340g) [Guist](https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7)
@@ -54,4 +51,4 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:contacto@jonathan.com.ar
 [portfolio]: https://jonathan.com.ar/es
-[incubator]: https://incubator.com.ar/
+[autoinspector]: https://autoinspector.com.ar/en
