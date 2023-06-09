@@ -12,6 +12,7 @@
 - 📚 In my free time i'm currently learning linux and bash
 - 📕 2023 Goals: Learn more linux - ~Start some activity (e.g. archery)~ - Improve logic/problem solving - Keep improving on what I already do - Get in the habit of reading books - Move alone - Reach SSR seniority
 - 💼 You can see my [portfolio]
+- 📰 My [blog]
 - 🔎 Random Facts: I like tech, photos, crypto, gaming, anime
 
 <a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img
@@ -46,6 +47,7 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 - [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
 - [Guide] 📚 Create booteable USB on linux with Ventoy (ES) [Guist](https://gist.github.com/jd-apprentice/e9436b870247ed303949dbec789861cc)
 
+[blog]: https://blog.jonathan.com.ar/
 [utn]: https://www.frlp.utn.edu.ar/carrera-sistemas
 [twitter]: https://twitter.com/jd_apprentice
 [instagram]: https://instagram.com/jd.apprentice
