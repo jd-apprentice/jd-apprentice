@@ -41,6 +41,7 @@ src="https://img.shields.io/github/followers/jd-apprentice?logo=github&style=for
 - [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
 - [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
 - [Template] 📚 App-Image [Repo](https://github.com/jd-apprentice/AppImage-Hello-World)
+- [Guide] 📚 AppImages in linux [Blog](https://blog.jonathan.com.ar/mastering-appimages-a-step-by-step-guide-to-building-and-distributing-cross-platform-applications)
 - [Guide] 📚 Running a chinese arduino (ch340g) [Guist](https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7)
 - [Guide] 📚 Dockerize a database and connect to it with DBeaver [Guist](https://gist.github.com/jd-apprentice/5818628a7815975b1e56e00c5e87704a)
 - [Guide] 📚 Angular routing with modules [Guist](https://gist.github.com/jd-apprentice/c41f7c040200daaee836c5dc9f29683d)
