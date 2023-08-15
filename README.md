@@ -42,6 +42,13 @@
 - [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
 - [Guide] 📚 Create booteable USB on linux with Ventoy (ES) [Guist](https://gist.github.com/jd-apprentice/e9436b870247ed303949dbec789861cc)
 
+### 📺 Youtube
+
+#### What is git and github ❓
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yusKpPVGLWg
+" target="_blank"><img src="http://img.youtube.com/vi/yusKpPVGLWg/0.jpg" 
+alt="Youtube" width="240" height="180" border="10" /></a>
+
 ### 📦 Packages 
 
 #### 🐍 Python
