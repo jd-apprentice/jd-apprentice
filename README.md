@@ -10,7 +10,7 @@
 
 - 🖥️ Studying systems engineering in [utn]
 - 📚 In my free time i'm currently learning linux and bash
-- 📕 2023 Goals: Learn more linux - ~Start some activity (e.g. archery)~ - Improve logic/problem solving - Keep improving on what I already do - ~Get in the habit of reading books~ - Move alone - Reach SSR seniority
+- 📕 2023 Goals: Learn more linux - ~Start some activity (e.g. archery)~ - Improve logic/problem solving - Keep improving on what I already do - ~Get in the habit of reading books~ - Move alone - ~~Reach SSR seniority~~
 - 💼 You can see my [portfolio]
 - 📰 My [blog]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
