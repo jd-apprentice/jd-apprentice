@@ -6,13 +6,13 @@
 
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
 
-## I'm a Tech guy, thinker and self-taught programmer
+## I'm a Tech guy, thinker and self-taught person
 
-- 🖥️ Studying systems engineering in [utn]
 - 📚 In my free time i'm currently learning linux and bash
-- 📕 2023 Goals: Learn more linux - ~Start some activity (e.g. archery)~ - Improve logic/problem solving - Keep improving on what I already do - ~Get in the habit of reading books~ - Move alone - ~~Reach SSR seniority~~
+- 📕 2023 Goals: Learn more linux - ~~Start some activity (e.g. archery)~~ - Improve logic/problem solving - Keep improving on what I already do - ~~Get in the habit of reading books~~ - Move alone - ~~Reach SSR seniority~~
 - 💼 You can see my [portfolio]
 - 📰 My [blog]
+- 📚 What i'm reading? [books]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/dyallo)
@@ -60,11 +60,10 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 #### 🟨 Javascript
 - Discord and slack gateway [NPM](https://www.npmjs.com/package/discord-slack-gateway)
 
+[books]: https://www.goodreads.com/jd_apprentice 
 [blog]: https://blog.jonathan.com.ar/
-[utn]: https://www.frlp.utn.edu.ar/carrera-sistemas
 [twitter]: https://twitter.com/jd_apprentice
 [instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:contacto@jonathan.com.ar
 [portfolio]: https://jonathan.com.ar/es
-[autoinspector]: https://autoinspector.com.ar/en
