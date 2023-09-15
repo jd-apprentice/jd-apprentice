@@ -30,6 +30,15 @@
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### 🏆 Badges
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.credly.com/badges/d4ac655c-22d8-47df-a8da-7ad6070c13a8" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
+    </a>
+</div>
+
+
 ### 📚 Guides and Templates
 
 - [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
