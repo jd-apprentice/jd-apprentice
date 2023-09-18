@@ -8,6 +8,7 @@
 
 ## I'm a Tech guy, thinker and self-taught person
 
+- ⛅ SSR DevOps Analyst at [Cloud Legion]
 - 📚 In my free time i'm currently learning AWS, Azure, Kubernetes and Jenkins
 - 📕 2023 Goals: Learn more linux - ~~Start some activity (e.g. archery)~~ - Improve logic/problem solving - Keep improving on what I already do - ~~Get in the habit of reading books~~ - Move alone - ~~Reach SSR seniority~~
 - 💼 You can see my [portfolio]
@@ -69,6 +70,7 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 #### 🟨 Javascript
 - Discord and slack gateway [NPM](https://www.npmjs.com/package/discord-slack-gateway)
 
+[Cloud Legion]: https://cloudlegion.com.ar/
 [books]: https://www.goodreads.com/jd_apprentice 
 [blog]: https://blog.jonathan.com.ar/
 [twitter]: https://twitter.com/jd_apprentice
