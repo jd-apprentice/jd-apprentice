@@ -65,7 +65,11 @@
 " target="_blank"><img src="http://img.youtube.com/vi/yusKpPVGLWg/0.jpg" 
 alt="Youtube" width="240" height="180" border="10" /></a>
 
-### 📦 Packages 
+### 📦 Packages
+
+#### 🍎 Debian
+
+- dnb-tools [repo](https://github.com/jd-apprentice/dbn-tools)
 
 #### 🐍 Python
 [![PyPI version](https://badge.fury.io/py/instagram-to-discord.svg)](https://badge.fury.io/py/instagram-to-discord)
