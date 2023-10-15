@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://www.github.com/jd-apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jd.apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathandyallo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jd_apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/jd_apprentice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### 🏅 Badges
+### 🏅 Stats
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jd-apprentice's GitHub stats" /></a>
 
@@ -52,6 +52,7 @@
 - [Template] 📚 AWS EC2 Docker [Repo](https://github.com/jd-apprentice/base-web-server)
 - [Guide] 📚 Create a fileserver with nginx [Blog](https://blog.jonathan.com.ar/sharing-files-made-easy-a-step-by-step-guide-to-online-folder-sharing-with-nginx)
 - [Guide] 📚 Running a chinese arduino (ch340g) [Guist](https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7)
+- [Guide] 📚 Reusable playbooks in ansible [Guist](https://gist.github.com/jd-apprentice/74b768294635862e7b238e7072d6011e)
 - [Guide] 📚 Dockerize a database and connect to it with DBeaver [Guist](https://gist.github.com/jd-apprentice/5818628a7815975b1e56e00c5e87704a)
 - [Guide] 📚 Angular routing with modules [Guist](https://gist.github.com/jd-apprentice/c41f7c040200daaee836c5dc9f29683d)
 - [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
@@ -67,9 +68,11 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 ### 📦 Packages 
 
 #### 🐍 Python
+[![PyPI version](https://badge.fury.io/py/instagram-to-discord.svg)](https://badge.fury.io/py/instagram-to-discord)
 - Instagram to discord [PyPi](https://pypi.org/project/instagram-to-discord/)
 
 #### 🟨 Javascript
+[![npm version](https://badge.fury.io/js/discord-slack-gateway.svg)](https://badge.fury.io/js/discord-slack-gateway)
 - Discord and slack gateway [NPM](https://www.npmjs.com/package/discord-slack-gateway)
 
 [Cloud Legion]: https://cloudlegion.com.ar/
