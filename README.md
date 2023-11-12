@@ -11,7 +11,7 @@
 ## I'm a Tech guy, thinker and self-taught person
 
 - ⛅ SSR DevOps Analyst at [Cloud Legion]
-- 📚 In my free time i'm currently learning AWS, Azure, Kubernetes and Jenkins
+- 📚 In my free time i'm currently learning networking and security
 - 📕 2023 Goals: ~~Learn more linux~~ - ~~Start some activity (e.g. archery)~~ - ~~Improve logic/problem solving~~ - ~~Keep improving on what I already do~~ - ~~Get in the habit of reading books~~ - Move alone - ~~Reach SSR seniority~~
 - 💼 You can see my [portfolio]
 - 📰 My [blog]
