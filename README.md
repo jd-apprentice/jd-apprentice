@@ -31,11 +31,11 @@
 <div style="display: flex;>
     
 <a href="https://www.credly.com/badges/d4ac655c-22d8-47df-a8da-7ad6070c13a8/public_url" target="_blank">
-    <img width="340" height="340" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
+    <img width="240" height="240" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
 </a>
 
 <a href="https://www.credly.com/badges/d4ac655c-22d8-47df-a8da-7ad6070c13a8/public_url" target="_blank">
-    <img width="340" height="340" src="https://github.com/jd-apprentice/jd-apprentice/assets/68082746/8279065b-0fa5-4352-bed3-6ae987f9f034" alt="AWS re/Start Badge">
+    <img width="240" height="240" src="https://github.com/jd-apprentice/jd-apprentice/assets/68082746/8279065b-0fa5-4352-bed3-6ae987f9f034" alt="AWS re/Start Badge">
 </a>
 
 </div>
