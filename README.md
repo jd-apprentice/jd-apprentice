@@ -2,7 +2,7 @@
 
 ![Readme](./Image.gif)
 
-[![committers.top badge](https://user-badge.committers.top/argentina_public/jd-apprentice.svg)](https://user-badge.committers.top/argentina_public/jd-apprentice)
+[![committers.top badge](https://user-badge.committers.top/argentina/jd-apprentice.svg)](https://user-badge.committers.top/argentina/jd-apprentice)
 ![Views](https://komarev.com/ghpvc/?username=jd-apprentice)
 
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
