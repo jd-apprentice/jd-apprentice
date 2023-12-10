@@ -7,7 +7,6 @@
 
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
 
-
 ## I'm a Tech guy, thinker and self-taught person
 
 - ⛅ SSR DevOps Analyst at [Cloud Legion]
@@ -28,16 +27,10 @@
 
 ### 🏆 Badges
 
-<div style="display: flex;>
-    
-<a href="https://www.credly.com/badges/d4ac655c-22d8-47df-a8da-7ad6070c13a8/public_url" target="_blank">
-    <img width="240" height="240" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
-</a>
+<div>
+<img width="240" height="240" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Badge">
 
-<a href="https://www.credly.com/badges/d4ac655c-22d8-47df-a8da-7ad6070c13a8/public_url" target="_blank">
-    <img width="240" height="240" src="https://github.com/jd-apprentice/jd-apprentice/assets/68082746/8279065b-0fa5-4352-bed3-6ae987f9f034" alt="AWS re/Start Badge">
-</a>
-
+<img width="240" height="240" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
 </div>
 
 ### 📚 Guides and Templates
@@ -68,7 +61,7 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 
 #### 🍎 Debian
 
-- dnb-tools [repo](https://github.com/jd-apprentice/dbn-tools)
+- dbn-tools [repo](https://github.com/jd-apprentice/dbn-tools)
 
 #### 🐍 Python
 [![PyPI version](https://badge.fury.io/py/instagram-to-discord.svg)](https://badge.fury.io/py/instagram-to-discord)
@@ -82,7 +75,6 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 [books]: https://www.goodreads.com/jd_apprentice 
 [blog]: https://blog.jonathan.com.ar/
 [twitter]: https://twitter.com/jd_apprentice
-[instagram]: https://instagram.com/jd.apprentice
 [linkedin]: https://linkedin.com/in/jonathandyallo
 [gmail]: mailto:contacto@jonathan.com.ar
-[portfolio]: https://jonathan.com.ar/es
+[portfolio]: https://jonathan.com.ar
