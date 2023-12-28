@@ -11,7 +11,7 @@
 
 - ⛅ SSR DevOps Analyst at [Cloud Legion]
 - 📚 In my free time i'm currently learning networking and security
-- 📕 2023 Goals: ~~Learn more linux~~ - ~~Start some activity (e.g. archery)~~ - ~~Improve logic/problem solving~~ - ~~Keep improving on what I already do~~ - ~~Get in the habit of reading books~~ - Move alone - ~~Reach SSR seniority~~
+- 📕 2024 Goals: Continue improving in infrastructure - Improve at networking - Improve at security - Engage in more sports activities - Move to a new place or buy a car - Publish at least 6 blogs - Read at least 6 books.
 - 💼 You can see my [portfolio]
 - 📰 My [blog]
 - 📚 What i'm reading? [books]
