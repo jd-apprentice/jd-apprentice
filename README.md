@@ -5,7 +5,10 @@
 [![committers.top badge](https://user-badge.committers.top/argentina/jd-apprentice.svg)](https://user-badge.committers.top/argentina/jd-apprentice)
 ![Views](https://komarev.com/ghpvc/?username=jd-apprentice)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jd.apprentice.png" alt="TryHackMe">
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/jd.apprentice.png" alt="TryHackMe">
+  <img src="http://www.hackthebox.eu/badge/image/834305" alt="Hack The Box">
+</div>
 
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
 
