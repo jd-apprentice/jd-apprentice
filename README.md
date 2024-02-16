@@ -5,6 +5,8 @@
 [![committers.top badge](https://user-badge.committers.top/argentina/jd-apprentice.svg)](https://user-badge.committers.top/argentina/jd-apprentice)
 ![Views](https://komarev.com/ghpvc/?username=jd-apprentice)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/jd.apprentice.png" alt="TryHackMe">
+
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
 
 ## I'm a Tech guy, thinker and self-taught person
