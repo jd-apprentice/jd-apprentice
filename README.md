@@ -65,6 +65,12 @@ alt="Youtube" width="240" height="180" border="10" /></a>
 
 ### 📦 Packages
 
+#### 🦧 Zig
+
+- mks [releases](https://github.com/jd-apprentice/hacking-tools/releases)
+- get-me-ports [releases](https://github.com/jd-apprentice/hacking-tools/releases)
+- my-docs [releases](https://github.com/jd-apprentice/my-docs/releases)
+
 #### 🍎 Debian
 
 - dbn-tools [repo](https://github.com/jd-apprentice/dbn-tools)
