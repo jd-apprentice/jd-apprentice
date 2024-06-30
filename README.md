@@ -14,7 +14,7 @@
 
 ## I'm a Tech guy, thinker and self-taught person
 
-- ⛅ SSR DevOps Analyst at [Cloud Legion]
+- ⛅ SSR DevSecOps at [Cloud Legion]
 - 📚 In my free time i'm currently learning networking and security
 - 📕 2024 Goals: Continue improving in infrastructure - Improve at networking - ~~Improve at security~~ - Engage in more sports activities - ~~Move to a new place or buy a car~~ - Publish at least 6 blogs - Read at least 6 books.
 - 💼 You can see my [portfolio]
@@ -43,6 +43,7 @@
 - [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
 - [Guide + Template] 📚 Build .deb package [Repo](https://github.com/jd-apprentice/debian-package-base)
 - [Guide + Template] 📚 App-Images [Blog](https://blog.jonathan.com.ar/mastering-appimages-a-step-by-step-guide-to-building-and-distributing-cross-platform-applications)
+- [Template] 📚 Bun Starter [Repo](https://github.com/jd-apprentice/jd-bun)
 - [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
 - [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
 - [Template] 📚 AWS EC2 Docker [Repo](https://github.com/jd-apprentice/base-web-server)
