@@ -60,15 +60,29 @@
 ### 📺 Youtube
 
 #### What is git and github ❓
+
+<div>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yusKpPVGLWg
 " target="_blank"><img src="http://img.youtube.com/vi/yusKpPVGLWg/0.jpg" 
 alt="Youtube" width="240" height="180" border="10" /></a>
 
+#### 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=B9WX3VC9TG4" target="_blank">
+<img src="https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?w=1200"
+alt="Youtube" width="240" height="180" border="10" /> </a>
+
+</div>
+
 ### 📦 Packages
+
+### 🦀 Rust
+
+- mks [repo](https://github.com/jd-apprentice/mks)
+- template [repo](https://github.com/jd-apprentice/jd-rust)
 
 #### 🦧 Zig
 
-- mks [releases](https://github.com/jd-apprentice/hacking-tools/releases)
 - get-me-ports [releases](https://github.com/jd-apprentice/hacking-tools/releases)
 - my-docs [releases](https://github.com/jd-apprentice/my-docs/releases)
 
