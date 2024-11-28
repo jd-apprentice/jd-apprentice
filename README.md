@@ -2,27 +2,14 @@
 
 ![Readme](./Image.gif)
 
-[![committers.top badge](https://user-badge.committers.top/argentina/jd-apprentice.svg)](https://user-badge.committers.top/argentina/jd-apprentice)
-![Views](https://komarev.com/ghpvc/?username=jd-apprentice)
-
-<div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/jd.apprentice.png" alt="TryHackMe">
-  <img src="http://www.hackthebox.eu/badge/image/834305" alt="Hack The Box">
-</div>
-
 ![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
 
 ## I'm a Tech guy, thinker and self-taught person
 
-- ⛅ SSR DevOps at [Cloud Legion]
 - 📚 In my free time i'm currently learning networking and security
 - 📕 2024 Goals: ~~Continue improving in infrastructure~~ - Improve at networking - ~~Improve at security~~ - Engage in more sports activities - ~~Move to a new place or buy a car~~ - ~~Publish at least 6 blogs~~ - Read at least 6 books.
-- 💼 You can see my [portfolio]
 - 📰 My [blog]
-- 📚 What i'm reading? [books]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/dyallo)
 
 ### 🏅 Stats
 
@@ -98,10 +85,4 @@ alt="Youtube" width="240" height="180" border="10" /> </a>
 [![npm version](https://badge.fury.io/js/discord-slack-gateway.svg)](https://badge.fury.io/js/discord-slack-gateway)
 - Discord and slack gateway [NPM](https://www.npmjs.com/package/discord-slack-gateway)
 
-[Cloud Legion]: https://cloudlegion.com.ar/
-[books]: https://www.goodreads.com/jd_apprentice 
 [blog]: https://blog.jonathan.com.ar/
-[twitter]: https://twitter.com/jd_apprentice
-[linkedin]: https://linkedin.com/in/jonathandyallo
-[gmail]: mailto:contacto@jonathan.com.ar
-[portfolio]: https://jonathan.com.ar
