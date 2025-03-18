@@ -7,7 +7,7 @@
 ## I'm a Tech guy, thinker and self-taught person
 
 - 📚 In my free time i'm currently learning networking and security
-- 📕 2025 Goals: Start learning Cloud (focused on SRE) - Start learning Networking (focused on Homelabs) - Reach 60 kilograms - Write at least 10 blog posts - Go on 2 camping trips - Have a hypervisor with at least 3 VMs
+- 📕 2025 Goals: Start learning Cloud (focused on SRE) - Start learning Networking (focused on Homelabs) - Reach 60 kilograms - Write at least 10 blog posts - Go on 2 camping trips - ~~Have a hypervisor with at least 3 VMs~~
 - 📰 My [blog]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
 
@@ -39,6 +39,7 @@
 - [Template] 📚 AWS EC2 Docker [Repo](https://github.com/jd-apprentice/base-web-server)
 - [Guide] 📚 Sample scripting with cronjobs [Blog](https://blog.jonathan.com.ar/bash-scripting-and-cronjobs)
 - [Guide] 📚 Build a Homelab with raspberry pi zero 2 w and cloudflare [Blog](https://blog.jonathan.com.ar/build-your-own-homelab-with-a-raspberry-pi-zero-2-w-and-cloudflare-zero-trust)
+- [Guide] 📚 Create a gameserver with Playit.gg [Blog](https://blog.jonathan.com.ar/guide-linux-host-your-gameservers-with-playitgg)
 - [Guide] 📚 Create a fileserver with nginx [Blog](https://blog.jonathan.com.ar/sharing-files-made-easy-a-step-by-step-guide-to-online-folder-sharing-with-nginx)
 - [Guide] 📚 Running a chinese arduino (ch340g) [Guist](https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7)
 - [Guide] 📚 Reusable playbooks in ansible [Guist](https://gist.github.com/jd-apprentice/74b768294635862e7b238e7072d6011e)
