@@ -7,7 +7,7 @@
 ## I'm a Tech guy, thinker and self-taught person
 
 - 📚 In my free time i'm currently learning networking and security
-- 📕 2025 Goals: Start learning Cloud (focused on SRE) - Start learning Networking (focused on Homelabs) - Reach 60 kilograms - Write at least 10 blog posts - Go on 2 camping trips - ~~Have a hypervisor with at least 3 VMs~~
+- 📕 2025 Goals: Start learning Cloud (focused on SRE) - Start learning Networking (focused on Homelabs) - ~~Reach 60 kilograms~~ - Write at least 10 blog posts - Go on 2 camping trips - ~~Have a hypervisor with at least 3 VMs~~
 - 📰 My [blog]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
 
