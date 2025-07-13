@@ -37,6 +37,7 @@
 - [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
 - [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
 - [Template] 📚 AWS EC2 Docker [Repo](https://github.com/jd-apprentice/base-web-server)
+- [Guide] 📚 Create a samba server [Blog](https://blog.jonathan.com.ar/share-files-across-your-network-with-samba)
 - [Guide] 📚 Sample scripting with cronjobs [Blog](https://blog.jonathan.com.ar/bash-scripting-and-cronjobs)
 - [Guide] 📚 Build a Homelab with raspberry pi zero 2 w and cloudflare [Blog](https://blog.jonathan.com.ar/build-your-own-homelab-with-a-raspberry-pi-zero-2-w-and-cloudflare-zero-trust)
 - [Guide] 📚 Create a gameserver with Playit.gg [Blog](https://blog.jonathan.com.ar/guide-linux-host-your-gameservers-with-playitgg)
