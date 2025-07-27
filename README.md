@@ -66,29 +66,4 @@ alt="Youtube" width="240" height="180" border="10" /> </a>
 
 </div>
 
-### 📦 Packages
-
-### 🦀 Rust
-
-- mks [repo](https://github.com/jd-apprentice/mks)
-- template [repo](https://github.com/jd-apprentice/jd-rust)
-- password-generator [repo](https://github.com/jd-apprentice/password-generator-rs)
-
-#### 🦧 Zig
-
-- get-me-ports [releases](https://github.com/jd-apprentice/hacking-tools/releases)
-- my-docs [releases](https://github.com/jd-apprentice/my-docs/releases)
-
-#### 🍎 Debian
-
-- dbn-tools [repo](https://github.com/jd-apprentice/dbn-tools)
-
-#### 🐍 Python
-[![PyPI version](https://badge.fury.io/py/instagram-to-discord.svg)](https://badge.fury.io/py/instagram-to-discord)
-- Instagram to discord [PyPi](https://pypi.org/project/instagram-to-discord/)
-
-#### 🟨 Javascript
-[![npm version](https://badge.fury.io/js/discord-slack-gateway.svg)](https://badge.fury.io/js/discord-slack-gateway)
-- Discord and slack gateway [NPM](https://www.npmjs.com/package/discord-slack-gateway)
-
 [blog]: https://blog.jonathan.com.ar/
