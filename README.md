@@ -72,6 +72,7 @@ alt="Youtube" width="240" height="180" border="10" /> </a>
 
 - mks [repo](https://github.com/jd-apprentice/mks)
 - template [repo](https://github.com/jd-apprentice/jd-rust)
+- password-generator [repo](https://github.com/jd-apprentice/password-generator-rs)
 
 #### 🦧 Zig
 
