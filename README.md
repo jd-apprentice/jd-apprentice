@@ -17,15 +17,6 @@
 
 <a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### 🏆 Badges
-
-<div>
-<img width="240" height="240" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Badge">
-
-<img width="240" height="240" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Practitioner Badge">
-
-<img width="240" height="240" src="https://github.com/user-attachments/assets/baa31460-f68c-4560-9b96-a0b680330f8d" alt="Github Foundations">
-
 </div>
 
 ### 📚 Guides and Templates
