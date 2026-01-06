@@ -6,8 +6,10 @@
 
 ## I'm a Tech guy, thinker and self-taught person
 
+*Note: All contributions at github are from personal projects, there is not work related things here (even private contributions)* 
+
 - 📚 In my free time i'm currently learning networking and security
-- 📕 2025 Goals: ~~Start learning Cloud (focused on SRE)~~ - ~~Start learning Networking (focused on Homelabs)~~ - ~~Reach 60 kilograms~~ - ~~Write at least 10 blog posts~~ - ~~Go on 1 camping trips~~ - ~~Have a hypervisor with at least 3 Nodes~~
+- 📕 2026 Goals: build a product and acquire real users, give at least one talk at an event, obtain an infrastructure certification, run a >30B LLM locally, at least one trip to the forest (3+ days)
 - 📰 My [blog]
 - 🔎 Random Facts: I like tech, photos, biking, gaming, anime
 
