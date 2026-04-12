@@ -52,4 +52,11 @@
 - 🎯 **CTF:** [Hack The Box Profile](https://app.hackthebox.com/users/834305) | [TryHackMe Profile](https://tryhackme.com/p/jd.apprentice)
 - 🛡️ **Security Research:** [OpenBugBounty Researcher Profile](https://www.openbugbounty.org/researchers/dyallo/)
 
+---
+
+### Talks and Videos
+
+- **[Bueno Bonito y Barato Version Open Source](https://www.youtube.com/watch?v=B9WX3VC9TG4)**
+- **[Hack The Box Meetup #17](https://www.youtube.com/watch?v=zxmCYEddfeU&t=4479s)**
+
 [blog]: https://blog.jonathan.com.ar/
