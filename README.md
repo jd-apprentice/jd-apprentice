@@ -1,62 +1,83 @@
-# Hello there, I'm Jonathan aka jd-apprentice 👋
+# Hello, I'm Jonathan 👋 `jd-apprentice`
 
-![Readme](./Image.gif)
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/14313759-758e-4064-8a30-655fd49eaf97 alt="dance-with-the-wind" />
+</p>
 
-![Badge](https://www.codewars.com/users/jd_apprentice/badges/large)
+---
 
-## I'm a Tech guy, thinker and self-taught person
+### Quick Bio
+- **Focus:**  SysAdmin/DevOps | Software Development | Application Security
+- **Company:** Founder of [Dyallab](https://dyallab.com.ar) - Transforming ideas into Reality
+- **2026 Roadmap:**
+  - Launch a product with active users.
+  - Earn an Infrastructure Certification.
+  - Self-host a >30B LLM.
+  - Deep forest expedition (3+ days).
+- **Interests:** Homelabbing, Robotics, Books, Chest and Photography.
 
-*Note: All contributions at github are from personal projects, there is not work related things here (even private contributions)* 
+---
 
-- 📚 In my free time i'm currently learning networking and security
-- 📕 2026 Goals: build a product and acquire real users, give at least one talk at an event, obtain an infrastructure certification, run a >30B LLM locally, at least one trip to the forest (3+ days)
-- 📰 My [blog]
-- 🔎 Random Facts: I like tech, photos, biking, gaming, anime
+### Projects & Initiatives
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| [**Mainhost**](https://mainhost.dyallab.com.ar/) | High-performance Game Hosting (Minecraft/SAMP) | 🟢 Live |
+| [**Dyabox**](https://dyabox.dyallab.com.ar/) | Retro Gaming Retail & IT Hardware Solutions | 🟢 Live |
+| [**Blog**](https://blog.jonathan.com.ar) | Stuff that I made goes here | 🟢 Live |
+| [**Scruticode**](https://github.com/jd-apprentice/Scruticode) | Evaluate quality and processes in your SDLC | 🛠️ In Dev |
+| [**PriceNexus**](https://github.com/Dyallab/PriceNexus) | Price tracking in Argentine online stores | 🛠️ In Dev |
 
-### 🏅 Stats
+---
 
-<a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-stats.vercel.app/api?username=jd-apprentice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jd-apprentice's GitHub stats" /></a>
+## Communities & Organizations
 
-<a href="http://www.github.com/jd-apprentice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-apprentice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Current
+- **[RustLang ES](https://rustlang-es.org/)** - *Staff*
+- **[Cloud Tinkerers](https://cloudtinkerers.com/)** - *Contributor*
+- **[Community Scripts](https://community-scripts.org/)** - *Contributor*
+- **[D1stinct](https://www.linkedin.com/company/d1stinct/)** - *Contributor*
 
-</div>
+### Past
+- **[Club DevOps](https://linktr.ee/clubdevops)** - *Staff*
+- **[Frontend Cafe](https://frontend.cafe/)** - *Mentor*
+- **[Sin JR No Hay SR](https://linktr.ee/sinjrnohaysr)** - *Mentor*
+- **[Instituto Web](https://www.institutoweb.com.ar/)** - *Mentor*
 
-### 📚 Guides and Templates
+### Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/ARM64-0091BD?logo=arm&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-00599C?logo=cisco&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Proxmox-E57020?logo=proxmox&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Self--Hosting-7289DA?logo=home-assistant&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Pentesting-4C566A?logo=kali-linux&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-0089D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/SRE-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monitoring-767676?logo=grafana&style=flat-square" />
+</p>
 
-- [Guide + Template] 📚 NodeJS Crud + Typescript with deploy in heroku [Repo](https://github.com/jd-apprentice/Node-TS)
-- [Guide + Template] 📚 Build .deb package [Repo](https://github.com/jd-apprentice/debian-package-base)
-- [Guide + Template] 📚 App-Images [Blog](https://blog.jonathan.com.ar/mastering-appimages-a-step-by-step-guide-to-building-and-distributing-cross-platform-applications)
-- [Template] 📚 Bun Starter [Repo](https://github.com/jd-apprentice/jd-bun)
-- [Template] 📚 React Boilterplate [Repo](https://github.com/jd-apprentice/React-Boilerplate)
-- [Template] 📚 Cli-starter [Repo](https://github.com/jd-apprentice/cli-template)
-- [Template] 📚 AWS EC2 Docker [Repo](https://github.com/jd-apprentice/base-web-server)
-- [Guide] 📚 Create a samba server [Blog](https://blog.jonathan.com.ar/share-files-across-your-network-with-samba)
-- [Guide] 📚 Sample scripting with cronjobs [Blog](https://blog.jonathan.com.ar/bash-scripting-and-cronjobs)
-- [Guide] 📚 Build a Homelab with raspberry pi zero 2 w and cloudflare [Blog](https://blog.jonathan.com.ar/build-your-own-homelab-with-a-raspberry-pi-zero-2-w-and-cloudflare-zero-trust)
-- [Guide] 📚 Create a gameserver with Playit.gg [Blog](https://blog.jonathan.com.ar/guide-linux-host-your-gameservers-with-playitgg)
-- [Guide] 📚 Create a fileserver with nginx [Blog](https://blog.jonathan.com.ar/sharing-files-made-easy-a-step-by-step-guide-to-online-folder-sharing-with-nginx)
-- [Guide] 📚 Running a chinese arduino (ch340g) [Guist](https://gist.github.com/jd-apprentice/f1d1a9a526b42c8313ddb021c968ece7)
-- [Guide] 📚 Reusable playbooks in ansible [Guist](https://gist.github.com/jd-apprentice/74b768294635862e7b238e7072d6011e)
-- [Guide] 📚 Dockerize a database and connect to it with DBeaver [Guist](https://gist.github.com/jd-apprentice/5818628a7815975b1e56e00c5e87704a)
-- [Guide] 📚 Angular routing with modules [Guist](https://gist.github.com/jd-apprentice/c41f7c040200daaee836c5dc9f29683d)
-- [Guide] 📚 Handle environments angular (ES) [Guist](https://gist.github.com/jd-apprentice/545258fe9c9a38f59adef53616b29232)
-- [Guide] 📚 Create booteable USB on linux with Ventoy (ES) [Guist](https://gist.github.com/jd-apprentice/e9436b870247ed303949dbec789861cc)
+### Resources
+<details>
+  <summary><b>Click to expand my articles, tools & profiles</b></summary>
 
-### 📺 Youtube
+- 🏗️ **Infrastructure:** [AWS EC2 Docker](https://github.com/jd-apprentice/base-web-server) | [Ansible Playbooks](https://gist.github.com/jd-apprentice/74b768294635862e7b238e7072d6011e) | [Samba Server](https://blog.jonathan.com.ar/share-files-across-your-network-with-samba) | [Mikrotik + WireGuard VPN](https://blog.jonathan.com.ar/your-own-vpn-with-mikrotik-wireguard) | [Terraform for Mikrotik](https://blog.jonathan.com.ar/manage-your-mikrotik-with-terraform)
+- 📦 **DevOps & Automation:** [Build .deb Packages](https://github.com/jd-apprentice/debian-package-base) | [Mastering AppImages](https://blog.jonathan.com.ar/mastering-appimages-a-step-by-step-guide-to-building-and-distributing-cross-platform-applications) | [Bash Scripting + Cronjobs](https://blog.jonathan.com.ar/bash-scripting-and-cronjobs) | [Getting Ready with n8n](https://blog.jonathan.com.ar/dont-rush-things-learn-the-basics-first-getting-ready-with-n8n)
+- 🎯 **CTF:** [Hack The Box Profile](https://app.hackthebox.com/users/834305) | [TryHackMe Profile](https://tryhackme.com/p/jd.apprentice)
+- 🛡️ **Security Research:** [OpenBugBounty Researcher Profile](https://www.openbugbounty.org/researchers/dyallo/)
+</details>
 
-#### What is git and github ❓
+---
 
-<div>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yusKpPVGLWg
-" target="_blank"><img src="http://img.youtube.com/vi/yusKpPVGLWg/0.jpg" 
-alt="Youtube" width="240" height="180" border="10" /></a>
-
-#### 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=B9WX3VC9TG4" target="_blank">
-<img src="https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?w=1200"
-alt="Youtube" width="240" height="180" border="10" /> </a>
-
-</div>
+### 📺 Latest Content
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=yusKpPVGLWg"><img src="https://img.shields.io/badge/YouTube-Git%20Guide-red?logo=youtube&style=flat-square" /></a>
+  <a href="https://blog.jonathan.com.ar/"><img src="https://img.shields.io/badge/Blog-Read%20Articles-blue?style=flat-square" /></a>
+</p>
 
 [blog]: https://blog.jonathan.com.ar/
