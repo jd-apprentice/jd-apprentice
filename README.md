@@ -1,4 +1,4 @@
-# Hello, I'm Jonathan 👋 `jd-apprentice`
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/c7d9f646-2518-47dd-b650-96d6fc48d81f" /># Hello, I'm Jonathan 👋 `jd-apprentice`
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/14313759-758e-4064-8a30-655fd49eaf97 alt="dance-with-the-wind" />
@@ -24,7 +24,7 @@
 | [**Mainhost**](https://mainhost.dyallab.com.ar/) | High-performance Game Hosting (Minecraft/SAMP) | 🟢 Live |
 | [**Dyabox**](https://dyabox.dyallab.com.ar/) | Retro Gaming Retail & IT Hardware Solutions | 🟢 Live |
 | [**Blog**](https://blog.jonathan.com.ar) | Stuff that I made goes here | 🟢 Live |
-| [**Scruticode**](https://github.com/jd-apprentice/Scruticode) | Evaluate quality and processes in your SDLC | 🛠️ In Dev |
+| [**Scruticode**](https://github.com/jd-apprentice/Scruticode) | Evaluate quality and processes in your SDLC | ⏳ Hold |
 | [**PriceNexus**](https://github.com/Dyallab/PriceNexus) | Price tracking in Argentine online stores | 🛠️ In Dev |
 
 ---
