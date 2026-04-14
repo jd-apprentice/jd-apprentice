@@ -1,4 +1,4 @@
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/c7d9f646-2518-47dd-b650-96d6fc48d81f" /># Hello, I'm Jonathan 👋 `jd-apprentice`
+Hello, I'm Jonathan 👋 `jd-apprentice`
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/14313759-758e-4064-8a30-655fd49eaf97 alt="dance-with-the-wind" />
