@@ -1,4 +1,4 @@
-Hello, I'm Jonathan 👋 `jd-apprentice`
+## Hello, I'm Jonathan 👋 `jd-apprentice`
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/14313759-758e-4064-8a30-655fd49eaf97 alt="dance-with-the-wind" />
