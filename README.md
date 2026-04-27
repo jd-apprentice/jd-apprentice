@@ -59,5 +59,6 @@
 
 - **[Bueno Bonito y Barato Version Open Source](https://www.youtube.com/watch?v=B9WX3VC9TG4)**
 - **[Hack The Box Meetup #17](https://www.youtube.com/watch?v=zxmCYEddfeU&t=4479s)**
+- **[Ciclo DevOps Ajustado al Software Libre](https://www.youtube.com/live/AsrxMCzQGOg?si=eo9EjCA87jNl1Fuh&t=14656)**
 
 [blog]: https://blog.jonathan.com.ar/
