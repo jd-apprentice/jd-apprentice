@@ -33,13 +33,13 @@
 ## Communities & Organizations
 
 ### Current
-- **[RustLang ES](https://rustlang-es.org/)** - *Staff*
 - **[Cloud Tinkerers](https://cloudtinkerers.com/)** - *Contributor*
 - **[Community Scripts](https://community-scripts.org/)** - *Contributor*
 - **[D1stinct](https://www.linkedin.com/company/d1stinct/)** - *Contributor*
 
 ### Past
 - **[Club DevOps](https://linktr.ee/clubdevops)** - *Staff*
+- **[RustLang ES](https://rustlang-es.org/)** - *Staff*
 - **[Frontend Cafe](https://frontend.cafe/)** - *Mentor*
 - **[Sin JR No Hay SR](https://linktr.ee/sinjrnohaysr)** - *Mentor*
 - **[Instituto Web](https://www.institutoweb.com.ar/)** - *Mentor*
