@@ -21,11 +21,9 @@
 ### Projects & Initiatives
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [**Mainhost**](https://mainhost.dyallab.com.ar/) | High-performance Game Hosting | 🟢 Live |
+| [**Mainhost**](https://mainhost.dyallab.com.ar/) | High-performance Game Hosting | 🛠️ Maintenance |
 | [**Dyabox**](https://dyabox.dyallab.com.ar/) | Retro Gaming Retail & IT Hardware Solutions | 🟢 Live |
 | [**Blog**](https://blog.jonathan.com.ar) | Stuff that I made goes here | 🟢 Live |
-| [**Scruticode**](https://github.com/jd-apprentice/Scruticode) | Evaluate quality and processes in your SDLC | ⏳ Hold |
-| [**PriceNexus**](https://github.com/Dyallab/PriceNexus) | Price tracking in Argentine online stores | ⏳ Hold |
 | [**HenKaiPan**](https://henkaipan.dyallab.com.ar/) | AppSec Platform | 🟢 Live |
 
 ---
