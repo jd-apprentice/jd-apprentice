@@ -12,7 +12,7 @@
 - **2026 Roadmap:**
   - Launch a product with active users.
   - Earn an Infrastructure Certification.
-  - Self-host a >30B LLM.
+  - ~~Self-host a >30B LLM.~~
   - Deep forest expedition (3+ days).
 - **Interests:** Homelabbing, Robotics, Books, Chest and Photography.
 
