@@ -25,6 +25,8 @@
 | [**Dyabox**](https://dyabox.dyallab.com.ar/) | Retro Gaming Retail & IT Hardware Solutions | 🛠️ Maintenance |
 | [**Blog**](https://blog.jonathan.com.ar) | Stuff that I made goes here | 🟢 Live |
 | [**HenKaiPan**](https://henkaipan.dyallab.com.ar/) | AppSec Platform | 🟢 Live |
+| [**Melodias Studio**](https://github.com/melodias8bit/melodias-studio) | Chiptune & pixel-art video generator with local models | 🟢 Live |
+| [**Frieren Desk**](https://jd-apprentice.github.io/frieren-desk/) | Chibi Frieren desktop pet for Hyprland | 🟢 Live |
 
 ---
 
