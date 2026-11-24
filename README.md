@@ -26,7 +26,7 @@
 | [**Blog**](https://blog.jonathan.com.ar) | Stuff that I made goes here | 🟢 Live |
 | [**HenKaiPan**](https://henkaipan.dyallab.com.ar/) | AppSec Platform | 🛠️ Maintenance |
 | [**Melodias Studio**](https://github.com/melodias8bit/melodias-studio) | Chiptune & pixel-art video generator with local models | 🚧 Under Construction |
-| [**Frieren Desk**](https://jd-apprentice.github.io/frieren-desk/) | Chibi Frieren desktop pet for Hyprland | 🟢 Live |
+| [**Frieren Desk**](https://frieren-labs.github.io/frieren-desk/) | Chibi Frieren desktop pet for Hyprland | 🟢 Live |
 
 ---
 
